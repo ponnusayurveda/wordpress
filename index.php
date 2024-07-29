@@ -1,4 +1,5 @@
 <?php
+echo "HELLO WORLD"
 /**
  * The main template file.
  *
